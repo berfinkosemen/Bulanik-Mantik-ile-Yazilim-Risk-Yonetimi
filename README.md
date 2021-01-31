@@ -6,3 +6,12 @@ Yazılım Risk Yönetimi ise bir proje geliştirirken ortaya çıkabilecek olums
 
 Yapılan bu projede, “Yazılım Risk Yönetimi”, “Bulanık Mantık” yapısı ile birleştirilerek, bir yazılım geliştirme çalışmasının durumunun (öngörülen ve belirtilen sisteme girdi olarak verilen değişkenlerin) takip edilebildiği bir risk tespiti sistemi oluşturulmuştur. Sistem oluşturulurken bir projenin gerçekleşmesine katkı sağlayan ve risk teşkil eden değişkenler kararlaştırılıp sistemden çıktı olarak projenin gerçekleşmesindeki risk hesaplanması yapılmaktadır. 
 Anahtar Kelimeler : Yazılım Risk Yönetimi, Bulanıklaştırma, Durulama, Bulanık Mantık
+
+<h> YAZILIM RISK YÖNETIMININ UYGULAMA YÖNTEMI <h/>
+
+Bu projemizi gerçekleştirmedeki amacımız uluslararası ya da yerli olarak yapılan bir yazılım projesini başarıya taşıyan ve risk teşkil eden değişkenlerin, bulanık mantık yöntemi ile belirlenip kullanıcıya bilgi vermesidir.
+
+Sistemimiz 9 girişten ve 1 çıkıştan ulaşmaktadır.  Giriş olarak;
+
+Proje Hakimiyeti, Proje Deneyimi (Proje için kullanılacak sistemleri daha önce deneyimlemiş olmak), İletişim (Ekipte yer alan kişilerin kendi aralarında kurdukları projenin ilerlemesi için gerçekleştirdiği bilgi ve kaynak alışverişi), Adım Adım İlerleme (Yazılım süreç yöntemlerinin sırasıyla güncel yazılım metotlarının uygulanarak ilerlenmesi), Kaynak Çeşitliliği (Proje için kullanılacak sistemleri açıklayan kaynakların yeterliliği), Ekip Deneyimi (Proje gerçekleştirecek kişilerinin daha önce başka projelerde beraber çalışıp çalışmama durumu), Gerekliliklerin Sabit Kalması (Projeyi gerçekleştireceğimiz kişilerinin taleplerinin en başından ), Gereklilikler Birbirine Bağlılığı (Bir sorun ile karşılaşıldığında iç sistemdeki diğer bölümleri etkileme olasılığı ve son olarak Zaman Dilimi (Uluslararası bir projede yer alan ekip üyelerinin farklı zaman dilimlerine göre yaşaması) değişkenleri kullanılmaktadır.
+
