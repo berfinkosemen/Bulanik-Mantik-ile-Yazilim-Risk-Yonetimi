@@ -1,0 +1,1 @@
+# Bulanik-Mantik-ile-Yazilim-Risk-Yonetimi
