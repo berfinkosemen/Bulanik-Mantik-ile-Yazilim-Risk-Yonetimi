@@ -31,4 +31,8 @@ Bulanık kümelerin oluşturulması için belirlediğimiz giriş ve çıkış de
 • Risk: Çok düşük, Düşük, Orta, Yüksek, çok yüksek
 
  Üyelik fonksiyonlarının oluşturulması Belirtilen bulanık kümeler için üçgen üyelik fonksiyonları kullanarak, simetrik olarak, aşağıdaki grafikleri oluşturduk. 
+ 
+ Çıkarım yöntemi olarak Mamdani çıkarımını kullanıldı. 
+ 
+ Durulaştırma için ağırlık merkezi ile durulaştırma yöntemini (Centroid metodunu) kullanıldı.
 
