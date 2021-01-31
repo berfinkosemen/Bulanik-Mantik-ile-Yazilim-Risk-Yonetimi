@@ -30,5 +30,5 @@ Bulanık kümelerin oluşturulması için belirlediğimiz giriş ve çıkış de
 • İletişim: Düşük, Orta, Yüksek
 • Risk: Çok düşük, Düşük, Orta, Yüksek, çok yüksek
 
-     Üyelik fonksiyonlarının oluşturulması Belirtilen bulanık kümeler için üçgen üyelik fonksiyonları kullanarak, simetrik olarak, aşağıdaki grafikleri oluşturduk. 
+ Üyelik fonksiyonlarının oluşturulması Belirtilen bulanık kümeler için üçgen üyelik fonksiyonları kullanarak, simetrik olarak, aşağıdaki grafikleri oluşturduk. 
 
